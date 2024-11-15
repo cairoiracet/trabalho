@@ -7,3 +7,9 @@ CALCULADORA ITBI
 Recebe o valor de transação de um imóvel, valor venal e a porcentagem do ITBI.
 Calcula o imposto baseado no maior valor.
 =========================================================================================
+SISTEMA DE AVALIAÇAO
+
+Recebe notas de duas provas e um trabalho.
+Calcula a média e indica se o aluno está aprovado ou reprovado.
+=========================================================================================
+
