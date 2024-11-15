@@ -24,3 +24,6 @@ SISTEMA DE LOGIN
 
 O programa solicita login e senha, permite três tentativas e exibe "Sucesso" para credenciais corretas ou "Acesso negado" após falhas.
 =========================================================================================
+GERADOR DE TABUADA
+
+Gera a tabuada de um número fornecido pelo usuário, de 1 a 10.
