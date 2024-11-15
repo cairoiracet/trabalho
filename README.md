@@ -12,4 +12,7 @@ SISTEMA DE AVALIAÇAO
 Recebe notas de duas provas e um trabalho.
 Calcula a média e indica se o aluno está aprovado ou reprovado.
 =========================================================================================
+CALCULADORA APOSENTADORIA
 
+Determina se uma pessoa pode se aposentar com base na idade, sexo e anos de contribuição.
+=========================================================================================
