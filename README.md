@@ -16,3 +16,7 @@ CALCULADORA APOSENTADORIA
 
 Determina se uma pessoa pode se aposentar com base na idade, sexo e anos de contribuição.
 =========================================================================================
+CIRCUITO DE RESISTENCIAS
+
+Solicita ao usuário quatro valores de resistências em série, calcula e exibe a resistência equivalente, a maior e a menor resistência.
+=========================================================================================
