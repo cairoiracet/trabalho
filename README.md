@@ -20,3 +20,7 @@ CIRCUITO DE RESISTENCIAS
 
 Solicita ao usuário quatro valores de resistências em série, calcula e exibe a resistência equivalente, a maior e a menor resistência.
 =========================================================================================
+SISTEMA DE LOGIN
+
+O programa solicita login e senha, permite três tentativas e exibe "Sucesso" para credenciais corretas ou "Acesso negado" após falhas.
+=========================================================================================
